@@ -4,4 +4,5 @@ Convert Northwind JSON files to JavaScript objects and practice querying and man
 
 ## Instructions
 
-- nnn
+1. convert the **employees.json** file to a JavaScript object in a JavaScript file called `funcarrays.js`
+2. sdfdf
