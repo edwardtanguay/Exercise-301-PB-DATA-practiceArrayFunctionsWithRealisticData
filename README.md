@@ -18,7 +18,12 @@ Convert Northwind JSON files to JavaScript objects and practice querying and man
 12. display list of `lastname: city` of each employee from the UK
 13. make a function `reportCity(city)` which searches all employees returns "Some are from <city>", "None are from <city>" or "All are from <city>", e.g. `reportCity('London') --> "Some are from London"` and `reportCity('Berlin')` --> "None are from Berlin"
 
-## Bonus ::muscle::
+## Bonus :muscle:
 
-1. sdfsdsdf
+1. convert the **customers.json** file to a JavaScript object and add it to the JavaScript file called `funcarrays.js`
+2. display the sentence: `There are nnn employees and nnn customers.`
+3. create a new array of customers with the following structure:
+```
+  dfdfd
+```
 
