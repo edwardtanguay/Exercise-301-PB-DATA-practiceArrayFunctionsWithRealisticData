@@ -24,11 +24,11 @@ Convert Northwind JSON files to JavaScript objects and practice querying and man
 2. display the sentence: `There are nnn employees and nnn customers.`
 3. create a new array of customers from the UK with the following structure (use filter and map), e.g.
 ```
-	{
-		id : "AROUT",
-		"company" : "Around the Horn",
-		"contact" : "Thomas Hardy (Sales Representative)",
-		"city" : "London"
-	}
+{
+	id : "AROUT",
+	"company" : "Around the Horn",
+	"contact" : "Thomas Hardy (Sales Representative)",
+	"city" : "London"
+}
 ```
 
